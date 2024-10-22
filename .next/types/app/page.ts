@@ -1,4 +1,4 @@
-// File: /Users/diegorodriguezk/Desktop/promptopia/app/page.jsx
+// File: /Users/diegorodriguezk/Prompty/app/page.jsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
